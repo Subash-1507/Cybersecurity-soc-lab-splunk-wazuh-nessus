@@ -115,4 +115,4 @@ This repository focuses on practical implementation of security monitoring and a
 
 ---
 
-🔥 *“Detect. Analyze. Defend.”*
+*“Detect. Analyze. Defend.”*
